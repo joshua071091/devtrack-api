@@ -18,7 +18,7 @@ Engineers can create reporters, file issues, assign priorities, and track status
 ## ▶️ How to Run the Project
 
 ```bash
-git clone https://github.com/<your-username>/devtrack-api.git
+git clone https://github.com/joshua071091/devtrack-api.git
 cd devtrack-api
 
 python3 -m venv venv
