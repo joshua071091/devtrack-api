@@ -107,7 +107,7 @@ This follows the **Open/Closed Principle**, allowing new priority types to be ad
 
 ---
 
-## 📸 Postman Screenshots
+## 📸 API Testing Screenshots
 
 ![alt text](<success.png>)
 ![alt text](error.png)
