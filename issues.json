@@ -6,5 +6,13 @@
     "status": "open",
     "priority": "critical",
     "reporter_id": 1
+  },
+  {
+    "id": 1,
+    "title": "Login button not working",
+    "description": "iOS issue",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
   }
 ]

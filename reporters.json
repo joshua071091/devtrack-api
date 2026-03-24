@@ -4,5 +4,11 @@
     "name": "John Doe",
     "email": "john@example.com",
     "team": "backend"
+  },
+  {
+    "id": 2,
+    "name": "John Doe 2",
+    "email": "john2@example.com",
+    "team": "backend"
   }
 ]
